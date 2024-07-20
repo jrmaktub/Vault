@@ -4,7 +4,7 @@ pragma solidity ^0.8.20;
 
 //  import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/extensions/ERC4626.sol";
 
-//imports for remix
+//import for Remiix
 import "https://github.com/jspruance/erc4626-vault-tutorial/blob/main/contracts/ERC4626Fees.sol";
 
 contract Vault is ERC4626Fees  {
